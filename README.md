@@ -13,7 +13,7 @@ In this project we will learn an interface specifies the behavior of a class by 
 | Concept   |      Resources      |
 |----------|:-------------:|
 |What is an Interface|[Interface concept](https://www.simplilearn.com/tutorials/java-tutorial/java-interface#:~:text=and%20project%20performance.-,What%20is%20Interface%20in%20Java%3F,in%20Java%20to%20achieve%20abstraction.)|
-||[Intercface classes - Tutorial](https://www.youtube.com/watch?v=GhslBwrRsnw)|
+|Java interface|[Intercface classes (Tutorial)](https://www.youtube.com/watch?v=GhslBwrRsnw)|
 
 
 
@@ -30,7 +30,7 @@ Calculate the area of geometrical shapes Using Interface concept.
 ```Java
 public class Main {
     public static void main(String[] args) {
-       // write your code here
+       /* write your code here */
     }
 }
 
