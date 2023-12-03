@@ -13,15 +13,14 @@ In this project, we will learn an interface specifying a class behavior by provi
 |Java interface|[Intercface classes (Tutorial)](https://www.youtube.com/watch?v=GhslBwrRsnw)|
 
 
-
 **Problem**
 
-Calculate the area of geometrical shapes Using the Interface concept.
+Calculate the area of the geometrical shape Using the Interface concept.
 
 **Implementation**
 
-* Create an interface Shape that declares a single method calculateArea().
-* Create multiple classes that implement the Shape interface and provide their implementations for the calculateArea() method.
+* Create an interface named `Shape` which should contain only one method called `calculateArea()`.
+* Create `Rectangle` and `Circle` classes that implement the Shape interface and provide their implementations for the calculateArea() method.
 
 ```Java
 public class Main {
