@@ -8,10 +8,9 @@ In this project, you will learn how to use interfaces in Java to define a contra
 
 | Concept   |      Resources      |
 |----------|:-------------:|
-|What is an Interface|[Interface overview](https://www.simplilearn.com/tutorials/java-tutorial/java-interface#:~:text=and%20project%20performance.-,What%20is%20Interface%20in%20Java%3F,in%20Java%20to%20achieve%20abstraction.)|
-|Interface in Java| [Interface overview](https://www.digitalocean.com/community/tutorials/interface-in-java)|
+|What is an Interface|[what is an interface](https://www.simplilearn.com/tutorials/java-tutorial/java-interface#:~:text=and%20project%20performance.-,What%20is%20Interface%20in%20Java%3F,in%20Java%20to%20achieve%20abstraction.), [Interface in java](https://www.digitalocean.com/community/tutorials/interface-in-java)|
 |Java interface|[Intercface classes (Tutorial)](https://www.youtube.com/watch?v=GhslBwrRsnw)|
-|||
+|Interfaces vs Abstract Classes| [Different between interface and abstract class](https://www.youtube.com/watch?v=PPZ_vZcF2AU)|
 
 **Problem**
 
