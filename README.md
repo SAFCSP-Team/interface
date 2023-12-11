@@ -15,14 +15,14 @@ In this project, you will learn how to use interfaces in Java to define a contra
 
 **Problem**
 
-Calculate the area of the geometrical shape Using the Interface concept.
+Develop a `Shape` interface with `calculateArea` method and implement the method for different shapes
 
 **Implementation**
 
 * Create an interface named `Shape` which should contain only one method called `calculateArea()`.
-* Create `Rectangle` and `Circle` classes that implement the Shape interface.
-* Overload the `calculateArea()` method in each class.
-* In the main method , create an object from each class and return the result of `calculateArea()` method, and print it.
+* Create `Rectangle` and `Circle` classes that implement the `Shape` interface.
+* Override the `calculateArea()` method in each class.
+* In the main method, create an object from each class and return the result of `calculateArea()` method, and print it.
 
 ```Java
 public class Main {
