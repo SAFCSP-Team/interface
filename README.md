@@ -20,7 +20,7 @@ Develop a `Shape` interface with `calculateArea` method and implement the method
 
 * Create an interface named `Shape` which should contain only one method called `calculateArea()`.
 * Create `Rectangle` and `Circle` classes that implement the `Shape` interface.
-* Override the `calculateArea()` method in each class.
+* Overload the `calculateArea()` method in each class.
 * In the main method, create an object from each class and return the result of `calculateArea()` method, and print it.
 
 ```Java
